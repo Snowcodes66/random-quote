@@ -60,7 +60,7 @@ body{
         width: 80%;
     }
     .main-container{
-        height:30%;
+        min-height:25%;
         min-width: 70%;
         margin: 0 auto;
         margin-top: 30%;
