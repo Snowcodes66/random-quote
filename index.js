@@ -169,6 +169,7 @@ const quotes = [
 console.log(quotes[4])
 
 function getQuote() {
+	
     const randomNum=Math.floor(Math.random()*quotes.length )
     const {source,quote}=quotes[randomNum]
     // console.log(quote,source)
