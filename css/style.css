@@ -53,3 +53,16 @@ body{
     margin-bottom: 10px;
     margin-top: 10px;
 }
+
+
+@media (max-width:760px) {
+    .btn-generator{
+        width: 80%;
+    }
+    .main-container{
+        min-width: 70%;
+        margin-top: 30%;
+        margin-right: 25%;
+        margin-left: 10%;
+    }
+}
