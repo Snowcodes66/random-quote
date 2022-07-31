@@ -61,8 +61,8 @@ body{
     }
     .main-container{
         min-width: 70%;
-        margin-top: 30%;
-        margin-right: 25%;
-        margin-left: 10%;
+        margin-top: 40%;
+        /* margin-right: 25%;
+        margin-left: 10%; */ 
     }
 }
